@@ -1,0 +1,9 @@
+.menu_icon_yes .link{
+    display: flex;
+    align-items: center;
+}
+
+.menu_icon_yes .menu__image{
+    width: 50px;
+    height: 50px;
+}
